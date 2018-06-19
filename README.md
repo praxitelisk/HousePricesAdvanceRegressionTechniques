@@ -9,3 +9,5 @@ Required Libraries:
 - pandas
 - matplotlib
 
+Information about the dataset can be found in Kaggle [link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+
